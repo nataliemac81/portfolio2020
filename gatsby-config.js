@@ -7,9 +7,9 @@ module.exports = {
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
+    author: 'Natalie McCroy', // for example - 'Ivan Ganev'
+    authorDescription: 'Full Stack Web Developer', // short text about the author
+    avatar: '/nat-avatar.png',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`
+        icon: `src/assets/nat-avatar.png`
       }
     },
     {
