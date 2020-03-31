@@ -16,8 +16,8 @@ export default {
       dark: {
         ...chronoblogTheme.colors.modes.dark,
         text: '#eaeaea',
-        background: '#0e0f17',
-        muted: '#161b1d'
+        background: '#372754',
+        muted: '#645187'
       }
     }
   },
@@ -45,7 +45,7 @@ export default {
   },
   fonts: {
     ...chronoblogTheme.fonts,
-    body: '-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif',
+    body: 'Letter Gothic Std,-apple-system,BlinkMacSystemFont,sans-serif',
     heading: 'inherit',
     monospace: 'Menlo, monospace'
   }
