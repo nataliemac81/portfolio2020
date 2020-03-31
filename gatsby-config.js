@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Chronoblog Profile Starter',
     siteDescription: 'Starter for Gatsby Theme Chronoblog',
-    siteImage: '/banner.png', // main image of the site for metadata
+    siteImage: '/nat-avatar.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-profile.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
@@ -14,16 +14,16 @@ module.exports = {
     twitterCreator: '', // creator account on twitter
     social: [
       {
-        icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/nataliemccroy/`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/nataliemac81`
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        icon: `codepen`,
+        url: `https://codepen.io/nataliemc`
       }
     ]
   },
