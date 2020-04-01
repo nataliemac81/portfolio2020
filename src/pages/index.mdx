@@ -1,5 +1,11 @@
 <AuthorBanner />
 <p>&nbsp;</p>
+
+### Recent Projects <Link to='projects'><Button style={{marginTop: '8px'}}>all projects</Button></Link>
+
+<FeedItems itemsFormat="compact" filterByTags={['project']} />
+<p>&nbsp;</p>
+
 <h3>Posts and Articles&nbsp;&nbsp;
   <Link to='posts-and-articles'>
     <Button style={{marginTop: '8px'}}>all posts and articles</Button>
@@ -11,9 +17,4 @@
   filterByTags={['post', 'article']} 
   limit={4} 
 />
-<p>&nbsp;</p>
-
-### Projects
-
-<FeedItems itemsFormat="compact" filterByTags={['project']} />
 <p>&nbsp;</p>
